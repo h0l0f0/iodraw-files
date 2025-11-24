@@ -7,6 +7,16 @@
         <mxCell id="3WJU-Sv2SB6bL2wgopNd-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3WJU-Sv2SB6bL2wgopNd-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3WJU-Sv2SB6bL2wgopNd-5" value="" style="shape=stencil(lVfLbhsxDPyavRKkJOpxTtP/CBCnNurageP08fflYivHlL2D5rZecyRqOENqp/jwtn163UyB386n4/fNr93zeTvFL1MIu8N2c9qd7WmKj1N8eDmeNt9Ox/fD8/L79WmOnJ9+HH/OK/xecC1SLDMq8J9/bxrp8ubrAtjvDleAmm4AgRgASqYSHKAWankdkBtx9QBLEgFkTKlU0rYO0EjqdyixJ3kXkDJxc4BcqYJDx0ZxACiVBACBik/JTqUAEISq30EzJQE7kIqLTzje1k8+XqgAUpmyj49KUVE8+/hQqABKeSyBtJ7hSnxlHx96Te4TOqouU2BEZ/V0CjWgIB2zseOA1QtVHcIzOGvr2rpwTwUYRoRC9h4mBqUy5oLnRhRa2ADZO3LOCO8w+CUKZaROoeRTihVaWIzw6PVsnSyCRkfiM0pWFNSFSDynqVIDNUskaVw/AYpCd9Ml3hwN/dUGggplGC++ZJF7W13zo1e0ZZgAP0xp8G/CIqXs16/doCt+DD48kgCDKYkfSgxHTCGpQ7hAPw61xdR8MlwqZS810x5Q8oe7r1phRuPOtOO9YtUQ0DtN6jz4XSkAglS71q/Uhs6crb4+JRsvGXVQ7v344heGLcjuDHEAaO/x9xtEHhWqDCdY0876BVDgSG35ZsY3Skh3Vgc/lbK1bnAGAwyVtntKA1qab4c+JSM6gToYoPlKF7sXgDMI33SWyr3Zr21R/CGqkgJ9G0B8To17916jKXpeW4KWa6XL/wIo8DphpR4qZ0lCgHXP4X7D+E7x6av+fwDs4ePL4mW33y8fJtf/j18i9mr5iomPfwE=);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="411.8393298650251" y="234.20874608056113" width="38.26577517322153" height="9.902534691203755" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
